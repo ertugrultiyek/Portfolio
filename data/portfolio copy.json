@@ -1,0 +1,113 @@
+{
+  "name": "Ertuğrul Tiyek",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Ertuğrul Tiyek",
+  "headerTaglineThree": "State Estimation Engineer",
+  "headerTaglineFour": "",
+  "showCursor": false,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+      {
+          "id": "1",
+          "title": "Github",
+          "link": "https://github.com/ertugrultiyek"
+      },
+      {
+          "id": "2",
+          "title": "LinkedIn",
+          "link": "https://www.linkedin.com/in/ertugrultiyek"
+      },
+      {
+          "id": "5",
+          "title": "Email",
+          "link": "mailto:ertugrultyk@gmail.com"
+      }
+  ],
+  "projects": [
+      {
+          "id": "e0d055ea-18a7-4490-84a4-a5bcff3fec05",
+          "title": "Lossless Message Compressor",
+          "description": "Lossless message compressing algorithm using Huffman Coding technique. Developed using C++ in the content of data structures and algorithm course.",
+          "imageSrc": "https://d18l82el6cdm1i.cloudfront.net/uploads/EKKlGLuUQd-greedy-search-path.gif",
+          "url": "https://github.com/ertugrultiyek/huffman_compression"
+      },
+      {
+          "id": "7f638d19-122d-42b5-9804-708068c60f99",
+          "title": "Nesim",
+          "description": "Ground Control Station for UAV's. Display with perfect UI. Mission planning using Leaflet.js. Connect with serial API.",
+          "imageSrc": "https://user-images.githubusercontent.com/60964098/155410680-2e32f57c-4e17-4093-8b3e-7ba232409b07.png",
+          "url": "https://github.com/ertugrultiyek/UAV-GUI"
+      }
+  ],
+  "services": [
+      {
+          "id": "1",
+          "title": "Art Direction",
+          "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      },
+      {
+          "id": "2",
+          "title": "Branding",
+          "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      },
+      {
+          "id": "3",
+          "title": "Web Design",
+          "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      },
+      {
+          "id": "4",
+          "title": "3D Design",
+          "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      }
+  ],
+  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "resume": {
+      "tagline": "I'm a state estimation engineer",
+      "description": "I develop sensor fusion algorithms for especially LIDARs and stereo cameras. I am willing to work in the area of autonomous driving or robotics. I am very interested in ADAS systems.",
+      "experiences": [
+          {
+              "id": "1",
+              "dates": "March 2022 - Present",
+              "type": "Full Time",
+              "position": "Frontend Engineer at X",
+              "bullets": "Bullet One, Bullet Two"
+          },
+          {
+              "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+              "dates": "July 2020 - March 2022",
+              "type": "Full Time",
+              "position": "Frontend Engineer at X",
+              "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+          }
+      ],
+      "education": {
+          "universityName": "Hacettepe University Electrical Electronics Engineering",
+          "universityDate": "2018-2023",
+          "universityPara": "Graduated from Electrical and Electronics Engineering Department with GPA of 3.13/4.00 Although the GPA is not that high, I am the one of the most successful students of our department."
+      },
+      "languages": [
+          "C++",
+          "Python",
+          "JavsScript",
+          "VHDL",
+          "C",
+          "x86 Assembly"
+      ],
+      "frameworks": [
+          "PyTorch",
+          "Cuda",
+          "NodeJs",
+          "Xilinx HLS",
+          "ROS"
+      ],
+      "others": [
+          "Autodesk Eagle",
+          "Autodesk Fusion 360",
+          "Docker",
+          "LaTex"
+      ]
+  }
+}
